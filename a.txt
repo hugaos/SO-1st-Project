@@ -1,0 +1,17 @@
+SIZE    NAME 20231110 /home/hugao/Desktop/SO/aula02
+5834    /home/hugao/Desktop/SO/aula02
+458     /home/hugao/Desktop/SO/aula02/aula02e04.sh
+232     /home/hugao/Desktop/SO/aula02/aula02e05d.sh
+NA     /home/hugao/Desktop/SO/aula02/aula02e08.sh
+NA     /home/hugao/Desktop/SO/aula02/aula02e06.sh
+112     /home/hugao/Desktop/SO/aula02/aula02e03.sh
+110     /home/hugao/Desktop/SO/aula02/aula02e09.sh
+93      /home/hugao/Desktop/SO/aula02/aula02e02.sh
+88      /home/hugao/Desktop/SO/aula02/aula02e01.sh
+75      /home/hugao/Desktop/SO/aula02/aula02e05.sh
+62      /home/hugao/Desktop/SO/aula02/aula02e07.sh
+53      /home/hugao/Desktop/SO/aula02/filemaker2.sh
+39      /home/hugao/Desktop/SO/aula02/exitfile.sh
+29      /home/hugao/Desktop/SO/aula02/c10xpto.sh
+28      /home/hugao/Desktop/SO/aula02/c10param.sh
+NA      /home/hugao/Desktop/SO/aula02/soma2.sh
